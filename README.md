@@ -64,7 +64,7 @@
  * 介绍页及下载：https://www.ikea.com/gb/en/planners/design-your-own-sofa-pube4af8d71
  * 宜家发布了一款名为“Soffa Sans”的沙发字体，该字体自称为“世界上最舒服的字体”。顾客可根据个人喜好，自行设计宜家沙发的配置和布局。该字体可在宜家网站中免费下载，VILME、GRÖNLID、VALLENTUNA等系列沙发均参与此次活动。
  * “Soffa Sans”字体共有白、蓝、灰三种可选颜色，可供调试的沙发产品共有1434种。
-
+![宜家字体](https://github.com/hhbart/FreeFonts/raw/master/ikea/ikea1.png)  
 
 
 
