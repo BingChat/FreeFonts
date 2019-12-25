@@ -6,7 +6,7 @@
  * 介绍页：https://source.typekit.com/source-han-serif/cn/
  * 思源字体是一款由Adobe与google共同开发的黑体字体，拥有ExtraLight、Light、Normal、Regular、Medium、Bold 和 Heavy七款字重，可以应用于广告设计、名片设计、包装印刷、产品设计等应用.
 
-  ![Google的思源字体](https://github.com/hhbart/FreeFonts/raw/master/google-fonts/Source-Han-Serif.png)
+  ![Google的思源字体](https://github.com/hhbart/FreeFonts/raw/master/google-fonts/Source-Han.jpg)
 
 
 #### 2、阿里普惠体/Alibaba Sans（中英文）
