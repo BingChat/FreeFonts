@@ -60,9 +60,7 @@
 
 #### 8、手书体（中文字体）
  * 介绍页及下载：https://www.zcool.com.cn/work/ZMjI2MDk1MDg=.html
- * 经过很长一段时间的折腾，中文手书体终于和大家见面了，此次共做了基本汉字6763个，提供给大家免费商用。
-字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。
-在作品下方有下载按钮，可供下载使用。
+ * 手书体由站酷 ID 为 Joker9 的北京平面设计师制作，手写风格适合特定的应用场景。共做了基本汉字6763个，提供给大家免费商用。字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。
  * 网盘下载链接：http://pan.baidu.com/s/1c13bFuK
  ![手书体](https://github.com/hhbart/FreeFonts/raw/master/Joker9/shoushu.jpg)
 
