@@ -6,12 +6,15 @@
  * 介绍页：https://source.typekit.com/source-han-serif/cn/
  * 思源字体是一款由Adobe与google共同开发的黑体字体，拥有ExtraLight、Light、Normal、Regular、Medium、Bold 和 Heavy七款字重，可以应用于广告设计、名片设计、包装印刷、产品设计等应用.
 
+  ![Google的思源字体](https://github.com/hhbart/FreeFonts/raw/master/google-fonts/Source-Han-Serif.png)
+
 
 #### 2、阿里普惠体/Alibaba Sans（中英文）
  * 介绍页及下载：https://alibabafont.taobao.com
  * 阿里巴巴 UCAN 2019 设计大会上，阿里公司发布的一款字体：阿里巴巴普惠体！
 这款字体开放商业授权给所有个人和商家，让所有用户可以免费使用。
 普惠体共收录了5个字重，116,895个全形汉字，西文 Alibaba Sans 共7,205 个拉丁字母（2 种风格、共 11 个字重），覆盖 172 个语种（覆盖大部分欧语国家）。
+ ![阿里普惠体](https://github.com/hhbart/FreeFonts/raw/master/alibaba/alibaba-puhuiti.png)
 
 
 #### 3、OPPO Sans（中英文）
