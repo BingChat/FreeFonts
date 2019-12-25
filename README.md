@@ -55,6 +55,7 @@
 #### 7、包图小白体（中英文）
  * 介绍页及下载：https://act.ibaotu.com/activity/1.html
  * 包图小白体，是字体视界团队 2018 年创作的一款字体，萌趣感十足。现由包图网与字体视界合作，将字体作公益开源，可免费商用。
+ ![包图小白体](https://github.com/hhbart/FreeFonts/raw/master/ibaotu/ibaotu-xiaobai.jpg)
 
 
 #### 8、手书体（中文字体）
@@ -63,7 +64,7 @@
 字体风格为手写风格，可以用于slogan、banner、海报、商标等设计里面。
 在作品下方有下载按钮，可供下载使用。
  * 网盘下载链接：http://pan.baidu.com/s/1c13bFuK
-
+ ![手书体](https://github.com/hhbart/FreeFonts/raw/master/Joker9/shoushu.jpg)
 
 #### 9、杨任东竹石体（中文字体）
  * 介绍页及下载：https://brushes8.com/100951.html
