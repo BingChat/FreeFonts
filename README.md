@@ -4,7 +4,7 @@
 
 #### 1、Google的思源字体/Google Fonts（中英文）
  * 介绍页：https://source.typekit.com/source-han-serif/cn/
- * 思源黑体字体是一款由Adobe与google共同开发的黑体字体，拥有ExtraLight、Light、Normal、Regular、Medium、Bold 和 Heavy七款字重，可以应用于广告设计、名片设计、包装印刷、产品设计等应用.
+ * 思源字体是一款由Adobe与google共同开发的黑体字体，拥有ExtraLight、Light、Normal、Regular、Medium、Bold 和 Heavy七款字重，可以应用于广告设计、名片设计、包装印刷、产品设计等应用.
 
 
 #### 2、阿里普惠体/Alibaba Sans（中英文）
