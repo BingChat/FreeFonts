@@ -29,6 +29,10 @@
 允许任何个人和企业免费使用，包括商用用途。
 但不得单独或者附带地以出售、出租、出借等方式向公众发行以获取利益。
 同时不得对本字库软件进行修改、仿制、反编译、转换、拆分。
+![胡晓波字体](https://github.com/hhbart/FreeFonts/raw/master/huxiaobo/huxiaobo.png)
+
+
+
 
 #### 5、站酷字体系列（中文字体）
  * 介绍页及下载：https://www.zcool.com.cn/special/zcoolfonts/
@@ -59,6 +63,7 @@
 #### 10、濑户字体（中英文）
  * 介绍页及下载：http://setofont.osdn.jp/
  * 濑户字型由日本的一位业余字体设计师 瀬戸のぞみ小姐 制作。支持简体、繁体、日文，而且支援日文包含 CJK 常用汉字、平片假名、JIS第一至四级，共 30000多字，是设计师个人手书，丝毫不造作，走的是一个好人缘天然呆的路线，甚至西文也很可爱。
+ ![濑户字体](https://github.com/hhbart/FreeFonts/raw/master/setofont/setofont.jpeg)
 
 #### 11、宜家Soffa sans（英文字体）
  * 介绍页及下载：https://www.ikea.com/gb/en/planners/design-your-own-sofa-pube4af8d71
