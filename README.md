@@ -18,6 +18,7 @@
  * 介绍页及下载：https://bbs.coloros.com/thread-2272309-1-1.html
  * 2019年11月20日，OPPO在北京举行ColorOS 7发布会,今天留下最深印象的应该还是OPPO Sans的完全开放使用,OPPO Sans正式版发布。 
  * OPPO SANS 开放授权，不论是个人还是企业均可下载免费使用，包括商用，无需任何授权，稍后用户们将可以在官网上下载到这一字体文件。
+ ![OPPO Sans](https://github.com/hhbart/FreeFonts/raw/master/OPPOSans/OPPO_Sans.gif)
 
 
 
@@ -42,6 +43,7 @@
 #### 6、庞门正道系列（中文字体）
  * 介绍页及下载：http://www.oebrand.cn/news_active.php?id=279
  * 设计博主阿门联合十几位设计师推出的庞门正道标题体，以及与设计师车港敏共同开发的庞门正道粗书均是永久免费商用的字体，被广泛应用于电影海报、综艺节目的宣传中
+ ![庞门正道字体](https://github.com/hhbart/FreeFonts/raw/master/pangmen/pangmen.jpg)
 
 #### 7、包图小白体（中英文）
  * 介绍页及下载：https://act.ibaotu.com/activity/1.html
