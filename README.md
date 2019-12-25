@@ -69,6 +69,7 @@
 #### 9、杨任东竹石体（中文字体）
  * 介绍页及下载：https://brushes8.com/100951.html
  * 杨任东竹石体于 2017 年 4 月 26 日世界知识产权日正式发布，整套字体有 7 个字重。
+  ![杨任东竹石体](https://github.com/hhbart/FreeFonts/raw/master/yangrendong/YRDZST.jpg)
 
 #### 10、濑户字体（中英文）
  * 介绍页及下载：http://setofont.osdn.jp/
