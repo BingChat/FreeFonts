@@ -80,9 +80,11 @@
  * “Soffa Sans”字体共有白、蓝、灰三种可选颜色，可供调试的沙发产品共有1434种。
 ![宜家字体](https://github.com/hhbart/FreeFonts/raw/master/ikea/ikea1.png)  
 
-
-
-
+#### 12、优设字体（中文字体）
+ * 介绍页及下载：https://www.uisdc.com/uisdc-first-free-font
+ * 历经 100 多天，不断推翻和调整细节后，这款包括 6763 个汉字和字符的「优设标题黑」终于在优设 8 周年之际，正式上线了！
+ * 「优设标题黑」是一款适用性广，速度感、力量感极强的专业美术标题字体。
+![优设字体](https://github.com/hhbart/FreeFonts/raw/master/youshe/youshe.png)  
 
 ## 字体安装方法
 #### 1、Windows系统安装方法
